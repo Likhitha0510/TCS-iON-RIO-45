@@ -54,10 +54,13 @@ F1 Score: the harmonic mean of precision and recall.
 Data Sources to solve problem
 Data Sets from any open source data sources can be used. Model building and solution engineering is NOT restricted to data.
 Example:
-https://ai.stanford.edu/~amaas/data/sentiment/ /n
-https://data.world/crowdflower/sentiment-analysis-in-text/n
-https://www.kaggle.com/crowdflower/twitter-airline-sentiment/n
+https://ai.stanford.edu/~amaas/data/sentiment/ 
+
+https://data.world/crowdflower/sentiment-analysis-in-text
+
+https://www.kaggle.com/crowdflower/twitter-airline-sentiment
 
 Test Accuracy achieved with IMDB dataset :
 https://colab.research.google.com/drive/190qSrqHWuefOyyD7j-eaDgJRgYBhlc-u#scrollTo=uqklEKmW7tvk&line=1&uniqifier=1
+
 https://colab.research.google.com/drive/190qSrqHWuefOyyD7j-eaDgJRgYBhlc-u#scrollTo=3ogZeYkv9nfT&line=3&uniqifier=1

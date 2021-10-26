@@ -61,6 +61,7 @@ https://data.world/crowdflower/sentiment-analysis-in-text
 https://www.kaggle.com/crowdflower/twitter-airline-sentiment
 
 Test Accuracy achieved with IMDB dataset :
+The accuracy achieved is 87.287
 https://colab.research.google.com/drive/190qSrqHWuefOyyD7j-eaDgJRgYBhlc-u#scrollTo=uqklEKmW7tvk&line=1&uniqifier=1
 
 https://colab.research.google.com/drive/190qSrqHWuefOyyD7j-eaDgJRgYBhlc-u#scrollTo=3ogZeYkv9nfT&line=3&uniqifier=1
